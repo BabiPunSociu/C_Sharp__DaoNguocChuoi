@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\obj\Debug\net6.0\DaoNguocChuoi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\obj\Debug\net6.0\DaoNguocChuoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\obj\Debug\net6.0\DaoNguocChuoi.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\obj\Debug\net6.0\DaoNguocChuoi.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\obj\Debug\net6.0\DaoNguocChuoi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\bin\Debug\net6.0\DaoNguocChuoi.exe
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\bin\Debug\net6.0\DaoNguocChuoi.deps.json
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\bin\Debug\net6.0\DaoNguocChuoi.runtimeconfig.json
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\bin\Debug\net6.0\DaoNguocChuoi.dll
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\bin\Debug\net6.0\DaoNguocChuoi.pdb
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\obj\Debug\net6.0\DaoNguocChuoi.dll
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\obj\Debug\net6.0\refint\DaoNguocChuoi.dll
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\obj\Debug\net6.0\DaoNguocChuoi.pdb
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\obj\Debug\net6.0\DaoNguocChuoi.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\DaoNguocChuoi\DaoNguocChuoi\obj\Debug\net6.0\ref\DaoNguocChuoi.dll
